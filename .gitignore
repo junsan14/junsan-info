@@ -37,8 +37,5 @@ yarn-error.log
 /front/.env.test.local
 /front/.env.production.local
 
-# logs
-*.log
-
 # OS
 .DS_Store
